@@ -106,7 +106,7 @@ This project is for educational purposes only.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+- GitHub: irfanshakeel1094(https://github.com/irfanshakeel1094)
 
 ## 🙏 Acknowledgments
 
